@@ -15,7 +15,7 @@
         "type": "git",
         "url": "    https://github.com/hloughrey/jest-snippets"
     },
-    "icon": "icon.svg",
+    "icon": "icon.png",
     "scripts": {
         "publish": "npx vsce publish"
     },

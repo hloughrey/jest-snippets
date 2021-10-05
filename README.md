@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jestjs.io/">
-    <img alt="Jest Snippets Logo" src="./icon.svg" width="210" />
+    <img alt="Jest Snippets Logo" src="./icon.png" width="210" />
   </a>
 </p>
 <h1 align="center">
