@@ -4,7 +4,7 @@
   "publisher": "Latitude55",
   "author": "hugh.loughrey@gmail.com",
   "description": "A collection of useful snippets for building a Jest test suite",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.48.0"
   },
