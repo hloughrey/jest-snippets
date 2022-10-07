@@ -1,42 +1,42 @@
 {
-    "name": "jest-snippets",
-    "displayName": "Jest Snippets",
-    "publisher": "Latitude55",
-    "author": "hugh.loughrey@gmail.com",
-    "description": "A collection of useful snippets for building a Jest test suite",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.48.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "    https://github.com/hloughrey/jest-snippets"
-    },
-    "icon": "icon.png",
-    "scripts": {
-        "publish": "npx vsce publish"
-    },
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript",
-                "path": "./snippets/jest.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jest.json"
-            },
-            {
-                "language": "typescript",
-                "path": "./snippets/jest.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/jest.json"
-            }
-        ]
-    }
+  "name": "jest-snippets",
+  "displayName": "Jest Snippets",
+  "publisher": "Latitude55",
+  "author": "hugh.loughrey@gmail.com",
+  "description": "A collection of useful snippets for building a Jest test suite",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "    https://github.com/hloughrey/jest-snippets"
+  },
+  "icon": "icon.png",
+  "scripts": {
+    "publish": "npx vsce publish"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/jest.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/jest.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/jest.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/jest.json"
+      }
+    ]
+  }
 }

@@ -30,5 +30,15 @@
             "})"
         ],
         "description": "Creates a new 'it' block"
+    },
+    "Create a new 'each' block": {
+        "prefix": "jest - new 'each' block",
+        "body": [
+            "it.each`
+              scenario | mock | expectedResult`('returns $expectedResult when $scenario', ({mock, expectedResult}) => {",
+            "expect().toEqual(expectedResult)",
+            "})"
+        ],
+        "description": "Creates a new 'it' block"
     }
 }
